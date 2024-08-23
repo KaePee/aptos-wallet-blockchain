@@ -30,4 +30,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 ## Sample Screens
-![]()
+![Watch Sampel](https://github.com/KaePee/aptos-wallet-blockchain/blob/main/demo/connect_wallet_demo.mov)
